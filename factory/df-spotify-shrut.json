@@ -1,0 +1,15 @@
+{
+	"name": "df-spotify-shrut",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Enabled",
+			"editable": true
+		}
+	},
+	"location": "canadacentral",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "b4f8e383-1f01-4e9a-b1c4-958a1703d9f6",
+		"tenantId": "e68af9f4-74c0-4f81-90ae-717829108e75"
+	}
+}
